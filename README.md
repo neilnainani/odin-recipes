@@ -1,7 +1,6 @@
 # odin-recipes
-This project is about making a recipes website.
-So far, I have learned about how to add emphasis to text (italicize) or
-make a text "strong" (bold). I have also learned how to add images from across
-the web or images from my computer on to a website. I have also learned how to
-add links to other websites and links to other sites in our directory in a secure
-fashion. 
+This project is from the Odin Project's curriculum, I applied what I learned about HTML to do the following:
+Add images to websites
+Add links to websites
+Make ordered and unordered lists on websites
+Use appropiate heading sizes on websites
